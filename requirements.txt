@@ -1,0 +1,3 @@
+autofaiss==2.15.6
+Pillow==9.5.0
+streamlit==1.22.0
