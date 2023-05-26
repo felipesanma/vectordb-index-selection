@@ -20,7 +20,7 @@ with st.sidebar:
     st.markdown(
         """
     ## About
-    This app is an pdf comparison (LLM-powered), built using:
+    This app automatically creates a Faiss knn indices with the most optimal similarity search parameters., built using:
     - [Streamlit](https://streamlit.io/)
     - [Autofaiss](https://criteo.github.io/autofaiss/)
     """
